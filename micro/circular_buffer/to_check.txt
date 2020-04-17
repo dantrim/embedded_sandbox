@@ -1,0 +1,2 @@
+https://www.embedded.com/ring-buffer-basics/
+https://codereview.stackexchange.com/questions/164130/elegant-circular-buffer
