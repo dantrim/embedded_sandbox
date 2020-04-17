@@ -1,2 +1,14 @@
 # python bytecode files
 *.pyc
+
+# vim auto files
+*.swo
+*.swk
+*.swp
+
+# build directories
+build/
+
+# unity
+unity/
+Unity/

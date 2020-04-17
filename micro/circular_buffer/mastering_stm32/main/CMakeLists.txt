@@ -1,0 +1,2 @@
+add_executable(main_ringbuffer main_ringbuffer.c)
+target_link_libraries(main_ringbuffer ringbuffer)
